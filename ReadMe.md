@@ -11,6 +11,6 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-formado em tecnico de informatica
-se aprimorando em linguagens back-end
-email: fernandezdevv@gmail.com
+formado em tecnico de informatica <br>
+se aprimorando em linguagens back-end <br>
+email: fernandezdevv@gmail.com <br>
