@@ -1,8 +1,8 @@
-
-
 <h1 align="left">Olá, me chamo Andrei Fernandez</h1>
 
 ###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/fernandezdevv/fernandezdevv/output/snake.svg" alt="Snake animation" />
 
@@ -13,6 +13,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandezdevv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fernandezdevv&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
+###
+
+<h2 align="left">Sobre mim</h2>
+
+###
+
+<p align="left">formado em ténico de informática<br>cursando análise e desenvolvimento de sistemas<br>se aprimorando em linguagens back-end<br>email: fernandezdevv@gmail.com</p>
 
 ###
 
@@ -45,6 +53,3 @@
 </div>
 
 ###
-formado em tecnico de informatica <br>
-se aprimorando em linguagens back-end <br>
-email: fernandezdevv@gmail.com <br>
