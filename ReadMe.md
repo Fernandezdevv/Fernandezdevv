@@ -1,5 +1,4 @@
-#  sobre:
-atualmente sou um programador front end.<br>estou me aprimorando em JavaScript 
+
 
 
 ## 🌐 Redes Sociais:
