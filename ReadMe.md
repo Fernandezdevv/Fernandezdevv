@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">formado em ténico de informática<br>cursando análise e desenvolvimento de sistemas<br>se aprimorando em linguagens back-end<br>email: fernandezdevv@gmail.com</p>
+<p align="left">formado em ténico de informática<br>cursando análise e desenvolvimento de sistemas<br>se aprimorando em linguagens back-end<br>email: andreifernandezdevv@gmail.com</p>
 
 ###
 
